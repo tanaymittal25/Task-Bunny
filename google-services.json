@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "860996291387",
+    "firebase_url": "https://task-bunny-3d6ff.firebaseio.com",
+    "project_id": "task-bunny-3d6ff",
+    "storage_bucket": "task-bunny-3d6ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860996291387:android:6f475b7b4c85b8c2",
+        "android_client_info": {
+          "package_name": "com.example.tanaymittal.taskbunny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860996291387-l5058a1e3re1frv78ib3r1qqr9po8jcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3nTB6zQnuywW1Ilu3ufqliUjssYxouFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
