@@ -18,6 +18,8 @@
             android:orientation="vertical"
             android:layout_height="wrap_content">
 
+
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -25,6 +27,18 @@
                 android:gravity="center"
                 android:textColor="@android:color/white"
                 android:textAppearance="?android:textAppearanceLarge"
+                />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:hint="Name"
+                android:background="@drawable/editdesign"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:textColorHint="@android:color/white"
+                android:id="@+id/name_register"
                 />
 
             <EditText
